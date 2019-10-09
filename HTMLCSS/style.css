@@ -1,0 +1,40 @@
+.container{
+	text-align: center;
+	font-family: 'Merriweather', serif;
+	font-size: 48px;
+}
+
+.nav{
+	text-align: center;
+	border-top:double 8px #DEB887;
+	border-bottom:double 8px #DEB887;
+    font-size: 24px;
+    margin: 50px;
+    padding: 10px;
+	font-family: 'Merriweather', serif;
+}
+
+.box {
+    width: 360px;
+    height: 100px;
+    margin: 50px;
+    float: none;
+    text-align: left;
+    font-family: 'Merriweather', serif;
+    line-height:1.5;
+    display: inline-block;
+}
+
+img{
+	width:800px;
+	height:500px;
+}
+
+
+i{
+	margin:10px;
+}
+
+h2{
+	font-size: 30px;
+}
