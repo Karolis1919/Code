@@ -1,16 +1,16 @@
 .container{
 	text-align: center;
 	font-family: 'Merriweather', serif;
-	font-size: 48px;
+	font-size: 18px;
 }
 
 .nav{
 	text-align: center;
-	border-top:double 8px #DEB887;
-	border-bottom:double 8px #DEB887;
+	border-top:double 7px #DEB887;
+	border-bottom:double 7px #DEB887;
     font-size: 24px;
-    margin: 50px;
-    padding: 10px;
+    margin: 70px;
+    padding: 1px;
 	font-family: 'Merriweather', serif;
 }
 
@@ -37,4 +37,8 @@ i{
 
 h2{
 	font-size: 30px;
+}
+
+#heading{
+	font-size: 48px;
 }
