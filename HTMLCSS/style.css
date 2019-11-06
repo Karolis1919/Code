@@ -1,44 +1,25 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
 .container{
-	text-align: center;
-	font-family: 'Merriweather', serif;
-	font-size: 18px;
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
 }
 
-.nav{
-	text-align: center;
-	border-top:double 7px #DEB887;
-	border-bottom:double 7px #DEB887;
-    font-size: 24px;
-    margin: 70px;
-    padding: 1px;
-	font-family: 'Merriweather', serif;
-}
-
-.box {
-    width: 360px;
-    height: 100px;
-    margin: 50px;
-    float: none;
-    text-align: left;
-    font-family: 'Merriweather', serif;
-    line-height:1.5;
-    display: inline-block;
+header li{
+	float: right;
+	padding: 0 5px 0 5px;
+	text-decoration: none;
+	list-style-type: none;
 }
 
 img{
-	width:800px;
-	height:500px;
+	width: 100%;
 }
 
-
-i{
-	margin:10px;
-}
-
-h2{
-	font-size: 30px;
-}
-
-#heading{
-	font-size: 48px;
+#beginning{
+	display: inline-block;
 }
