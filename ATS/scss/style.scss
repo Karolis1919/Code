@@ -1,0 +1,34 @@
+body {
+  background-color: #787878;
+}
+
+form{
+  margin: 100px;
+
+  button{
+    background-color: #fff3cd;
+  }
+}
+
+::placeholder{
+  color: #000000;
+}
+
+.table{
+  display: none;
+}
+
+.alert{
+  display: none;
+}
+
+.container{
+  background-color: #4a4748;
+  .table{
+    color: #fffafc;
+    tbody{
+      background-color: #fff3cd;
+      color: #000000;
+    }
+  }
+}
